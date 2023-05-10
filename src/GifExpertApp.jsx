@@ -27,6 +27,10 @@ export const GifExpertApp = () => {
             )
             ) }
 
+        <div>
+            <footer>Made by: Alex Aguilar</footer>
+        </div>
+
     </> 
     )
 }
