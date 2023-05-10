@@ -26,10 +26,12 @@ export const GifExpertApp = () => {
                 category={ category } />
             )
             ) }
+        <p></p>
 
-        <div>
-            <footer>Made by: Alex Aguilar</footer>
-        </div>
+            <footer className="footer">
+                <>Made by: Alex Aguilar</>
+            </footer>
+
 
     </> 
     )
